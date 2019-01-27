@@ -1,4 +1,4 @@
-# Project Title
+# Springboot Redis Cache Sample
 
 This project is a simple tutorial on how to integrate SpringBoot and Redis as cache implementation
 
